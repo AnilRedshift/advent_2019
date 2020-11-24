@@ -25,3 +25,5 @@ advent_2019-*.tar
 
 # Temporary files for e.g. tests
 /tmp
+
+.elixir_ls
