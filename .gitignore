@@ -27,3 +27,5 @@ advent_2019-*.tar
 /tmp
 
 .elixir_ls
+
+.DS_Store
